@@ -32,3 +32,5 @@ ec2-3-94-52-61.compute-1.amazonaws.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItb
 ec2-54-173-210-39.compute-1.amazonaws.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA4PYRS6SExSPL/4f43uHMJul5hMBRl7sIR8pG3GEO2I
 ec2-54-173-210-39.compute-1.amazonaws.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBp2SWK/4AeyN5wdyA6X73Bmib/SyfbRbx3zXRR014HHGws4Y6/w7lopRz78OiNTkeDj58cgJjD9ZeejN8NjrFI=
 ec2-3-88-193-90.compute-1.amazonaws.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH8S+BoZmtbghsVdht/oqk35SmqtZNkbSS9NaanJvX30
+ec2-3-88-193-90.compute-1.amazonaws.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBL/SST+Z+CouBrldKoCYGGyWRark4FSuuatnxDjIG8+5UFV9v240tOcyifVSdi1sTtwYUYqKThxFwyJVqGQIW00=
+github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
